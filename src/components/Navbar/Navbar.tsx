@@ -36,8 +36,8 @@ const NavBar: React.FC<IMenuBurgerProps> = ({ page, status }) => {
               >
                 <Navbar.Brand href="/" className='subPage'>Inicio</Navbar.Brand>
                 <Navbar.Brand href="/categorias/3" className='subPage '>Mapas e Dados Agropecuários</Navbar.Brand>
-                <Navbar.Brand href="#/categorias/1" className='subPage'>Mapas e dados Ambientais</Navbar.Brand>
-                <Navbar.Brand href="/Saiba_mais" className='subPage'>Conheca o Projeto</Navbar.Brand>
+                <Navbar.Brand href="/categorias/1" className='subPage'>Mapas e Dados Ambientais</Navbar.Brand>
+                <Navbar.Brand href="/Saiba_mais" className='subPage'>Conheça o Projeto</Navbar.Brand>
                 <Navbar.Brand href="/publicacoes" className='subPage'>Publicações</Navbar.Brand>
               </Nav>
             </Navbar.Collapse>
